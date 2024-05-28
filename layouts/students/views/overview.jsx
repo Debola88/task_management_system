@@ -42,7 +42,7 @@ export default function Overview() {
                   </Container>
                   <Container classname='lg:hidden pb-6'>
                         <TaskDetailsCard />
-                        <p className='text-md text-secondary-400 dark:text-white text-center my-4'>Developed by <span className='italic text-primary-300 font-semibold'>Oloko Sodiq</span> </p>
+                        <p className='text-md text-secondary-400 dark:text-white text-center my-4'>Developed by <span className='italic text-primary-300 font-semibold'>Adebola Badejo</span> </p>
                   </Container>
             </Container>
       )
